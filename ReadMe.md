@@ -5,3 +5,4 @@
 1. 変更をコミットします．
     * git add
     * git commit
+    * git rm
